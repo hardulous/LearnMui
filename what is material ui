@@ -1,0 +1,5 @@
+MATERIAL - UI
+
+it is a ui component library , means it provides us react component to build user interface in quick time , just like we have angular material and vuetify for angular and vue js we have material ui for react 
+
+install by command npm install @mui/material @emotion/react @emotion/styled
